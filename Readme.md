@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/robtijhuis/TryOut%20IBC%20DevOps%20-%20CDaaS%20pipeline/_apis/build/status/robtijhuis.congenial-octo-happiness?branchName=master)](https://dev.azure.com/robtijhuis/TryOut%20IBC%20DevOps%20-%20CDaaS%20pipeline/_build/latest?definitionId=1?branchName=master)
